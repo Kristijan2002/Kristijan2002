@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kristijan2002
-- 👀 I’m interested in JavaScript, TypeScript, NextJS, ReactJS, Scrum.
+- 👀 I’m interested in JavaScript, TypeScript, NextJS, ReactJS.
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me-> kikomaksimovski2002@gmail.com or https://www.linkedin.com/in/kristijan-maksimovski-6387b9256/
 
